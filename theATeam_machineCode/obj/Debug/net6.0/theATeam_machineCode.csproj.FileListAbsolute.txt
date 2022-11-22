@@ -1,0 +1,15 @@
+C:\Users\circa\OneDrive\Documents\[Software Engineering Fundamentals]\Group Project Folder\theATeam_machineCode\theATeam_machineCode\bin\Debug\net6.0\theATeam_machineCode.exe
+C:\Users\circa\OneDrive\Documents\[Software Engineering Fundamentals]\Group Project Folder\theATeam_machineCode\theATeam_machineCode\bin\Debug\net6.0\theATeam_machineCode.deps.json
+C:\Users\circa\OneDrive\Documents\[Software Engineering Fundamentals]\Group Project Folder\theATeam_machineCode\theATeam_machineCode\bin\Debug\net6.0\theATeam_machineCode.runtimeconfig.json
+C:\Users\circa\OneDrive\Documents\[Software Engineering Fundamentals]\Group Project Folder\theATeam_machineCode\theATeam_machineCode\bin\Debug\net6.0\theATeam_machineCode.dll
+C:\Users\circa\OneDrive\Documents\[Software Engineering Fundamentals]\Group Project Folder\theATeam_machineCode\theATeam_machineCode\bin\Debug\net6.0\theATeam_machineCode.pdb
+C:\Users\circa\OneDrive\Documents\[Software Engineering Fundamentals]\Group Project Folder\theATeam_machineCode\theATeam_machineCode\obj\Debug\net6.0\theATeam_machineCode.csproj.AssemblyReference.cache
+C:\Users\circa\OneDrive\Documents\[Software Engineering Fundamentals]\Group Project Folder\theATeam_machineCode\theATeam_machineCode\obj\Debug\net6.0\theATeam_machineCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\circa\OneDrive\Documents\[Software Engineering Fundamentals]\Group Project Folder\theATeam_machineCode\theATeam_machineCode\obj\Debug\net6.0\theATeam_machineCode.AssemblyInfoInputs.cache
+C:\Users\circa\OneDrive\Documents\[Software Engineering Fundamentals]\Group Project Folder\theATeam_machineCode\theATeam_machineCode\obj\Debug\net6.0\theATeam_machineCode.AssemblyInfo.cs
+C:\Users\circa\OneDrive\Documents\[Software Engineering Fundamentals]\Group Project Folder\theATeam_machineCode\theATeam_machineCode\obj\Debug\net6.0\theATeam_machineCode.csproj.CoreCompileInputs.cache
+C:\Users\circa\OneDrive\Documents\[Software Engineering Fundamentals]\Group Project Folder\theATeam_machineCode\theATeam_machineCode\obj\Debug\net6.0\theATeam_machineCode.dll
+C:\Users\circa\OneDrive\Documents\[Software Engineering Fundamentals]\Group Project Folder\theATeam_machineCode\theATeam_machineCode\obj\Debug\net6.0\refint\theATeam_machineCode.dll
+C:\Users\circa\OneDrive\Documents\[Software Engineering Fundamentals]\Group Project Folder\theATeam_machineCode\theATeam_machineCode\obj\Debug\net6.0\theATeam_machineCode.pdb
+C:\Users\circa\OneDrive\Documents\[Software Engineering Fundamentals]\Group Project Folder\theATeam_machineCode\theATeam_machineCode\obj\Debug\net6.0\theATeam_machineCode.genruntimeconfig.cache
+C:\Users\circa\OneDrive\Documents\[Software Engineering Fundamentals]\Group Project Folder\theATeam_machineCode\theATeam_machineCode\obj\Debug\net6.0\ref\theATeam_machineCode.dll
